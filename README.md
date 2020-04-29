@@ -14,5 +14,5 @@ sudo apt install wiringpi
 
 ## hard
 
-pi(io17)->door sensor
-pi(gnd)->[2kΩ]->door sensor
+pi(io17)->door sensor  
+pi(gnd)->[2kΩ]->door sensor  
